@@ -29,5 +29,5 @@
 ---
 
 <div align="center">
-  <i>"Windows en el trabajo, Debian en el servidor, Fedora en el gmaing."</i>
+  <i>"Windows en el trabajo, Debian en el servidor, Fedora en el gaming."</i>
 </div>
