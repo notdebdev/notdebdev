@@ -18,7 +18,7 @@
 * 🛠️ **IT systems & Infrastructure:** Trabajo en mantenimiento de sistemas e infraestructura IT.
 * 🏰 **Homelab:** Servidor personal sobre Debian para virtualización, servicios y almacenamiento.
 * 🎮 **Casual Gamer:** Fedora 45 + KDE Plasma para uso diario y gaming.
-* ❓ **¿Por qué `notdebdev`?:** Empecé convencido de ser *Debian para siempre*, hasta que el gaming y el hardware me trajeron a Fedora.
+* ❓ **¿Por qué `notdebdev`?:** Empecé convencido de ser *Debian para siempre*, hasta que el gaming me trajo a Fedora.
 
 ---
 
