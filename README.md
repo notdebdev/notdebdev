@@ -15,12 +15,13 @@
 
 ### 💡 Sobre mí & mi stack
 
-* 🏰 **Homelab:** Servidor personal sobre Debian para Jellyfin.
-* 🎮 **Gamer Casual:** Fedora + KDE Plasma para uso diario y gaming.
+* 🏰 **Homelab:** Servidor personal sobre Debian para Jellyfin, AdGuard, Samba.
+* 🎮 **Gamer:** Fedora + KDE Plasma para uso diario y gaming.
+* 💻 **Laptop Legion:** un SSD con Fedora y otro con Windows 11 LTSC (sin bloat), que cambio a mano porque no soy fan del dual boot.
 * ❓ **¿Por qué `notdebdev`?:** Empecé convencido de ser *Debian para siempre*, hasta que el gaming me trajo a Fedora.
 
 ---
 
 <div align="center">
-  <i>"Windows en el trabajo, Debian en el servidor, Fedora en el gaming."</i>
+  <i>“Una laptop Legion, dos SSD, cero dual boot.”</i>
 </div>
