@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 Hola, soy Oscar (@notdebdev)
+#  Hola, soy Oscar (@notdebdev)
 
 **Homelab | Linux | Gamer**
 
